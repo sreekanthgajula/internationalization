@@ -27,6 +27,7 @@ function App() {
         </div>
         <div>
           <p>{t("description.sample-text")}</p>
+          <p>{t("title")}</p>
         </div>
       </div>
     </div>
